@@ -106,7 +106,12 @@ python scripts/gitgrow.py
 Want in? It’s effortless. If you:
 
 1. **Star** this repository, **AND**
-2. **Follow** both **[@ikramagix](https://github.com/ikramagix)** and **[@gr33kurious](https://github.com/gr33kurious)**
+2. **Follow**
+    - **[@ikramagix](https://github.com/ikramagix)**
+    - **[@gr33kurious](https://github.com/gr33kurious)**
+    - **[@menzbaba](https://github.com/menzbaba)**
+    - **[@lrepo52](https://github.com/lrepo52)**
+    - **[@levonk](https://github.com/levonk)**
 
 then your username will be **automatically** added to the master `usernames.txt` list alongside the **91,000+** active members!
 
