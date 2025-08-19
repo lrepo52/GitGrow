@@ -9,7 +9,7 @@ name: GitGrow Unfollow (Scheduled)
 on:
   schedule:
     # - cron: '5 */10 * * *'   # every 10 hours at XX:05 UTC
-  - cron: '45 */2 * * *' # every 2 hours at XX:45
+  - cron: '45 3 * * 3' # once a week
   workflow_dispatch: {}
 
 jobs:
